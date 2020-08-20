@@ -1,8 +1,9 @@
 ---
 title: "Why I Fully Switched to macOS"
 author: "Mario Jackson"
-date: 2020-08-19T20:40:52+02:00
+date: 2020-08-20T20:40:52+02:00
 draft: false
+tags: ['mac', 'apple', 'general']
 ---
 
 ## Linux is awesome
