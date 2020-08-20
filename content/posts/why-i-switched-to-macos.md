@@ -4,6 +4,7 @@ author: "Mario Jackson"
 date: 2020-08-20T20:40:52+02:00
 draft: false
 tags: ['mac', 'apple', 'general']
+type: post
 ---
 
 ## Linux is awesome
